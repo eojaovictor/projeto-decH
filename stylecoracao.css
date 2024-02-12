@@ -1,0 +1,17 @@
+body {
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+  }
+  p{
+    color: white;
+    text-align: center;
+  }
+  .texto{
+    margin: 0 auto;
+  }
+  canvas{
+    height: 100vh;
+    width: 100%;
+  }
